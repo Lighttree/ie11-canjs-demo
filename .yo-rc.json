@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "Viktor Busko",
+      "authorEmail": "viktor_busko@epam.com",
+      "authorUrl": "https://donejs.com"
+    }
+  }
+}
