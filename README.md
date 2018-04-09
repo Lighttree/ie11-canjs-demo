@@ -1,3 +1,6 @@
+# IE11 issue example:
+![alt text](https://raw.githubusercontent.com/Lighttree/ie11-canjs-demo/master/Capture.PNG)
+
 # ie11-canjs-demo
 
 Welcome to the ie11-canjs-demo DoneJS application!
